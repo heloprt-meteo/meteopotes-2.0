@@ -12,7 +12,6 @@ WEATHER_API_KEY = "3f7b17440855f1d12d57cf131cdb4171"
 
 # Dictionnaire des villes avec emojis
 VILLES = {
-VILLES = {
     "Rieux,FR": "🩷 RIEUX",
     "Chambéry,FR": "💛 CHAMBÉRY",
     "La Chapelle-Bouëxic,FR": "🖤 LA CHAPELLE-BOUËXIC",
@@ -20,7 +19,6 @@ VILLES = {
     "Saint-Jacques-de-Compostelle,ES": "💙 SAINT-JACQUES-DE-COMPOSTELLE",
     "Roncq,FR": "💜 RONCQ",
     "Montélimar,FR": "🤍 MONTÉLIMAR",
-}
 }
 
 # Dictionnaire de correspondance entre les codes météo et les emojis
